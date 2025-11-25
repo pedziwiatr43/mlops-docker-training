@@ -84,4 +84,4 @@ Studierendenprojekt zur Demonstration einer einfachen ML-Docker-Pipeline.
 
 ## Autor
 
-Mateusz
+pedziwiatr43
